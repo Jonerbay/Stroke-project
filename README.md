@@ -22,3 +22,5 @@ Date of Dysrhythmia{ no - 0, yes/single - 1, constant - 2 }
 Dysrhythmia{no - 0, yes - 1, Afib - 2, ventricular extrasystoles - 3}
 
 Heart Failure{no - 0, yes Acute - 1, chronic continous I - 2, chronic continous II - 3, chronic continous III - 4}
+
+For other values { happened/has/taken - 1, otherwise - 0}
